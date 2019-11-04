@@ -1,14 +1,14 @@
-﻿# [cortex](https://github.com/sochub/cortex)
+﻿# [Cortex](https://github.com/sochub/Cortex)
 
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
 
-## [描述](https://github.com/sochub/cortex/wiki) 
+## [描述](https://github.com/sochub/Cortex/wiki) 
 
-[cortex(Advanced RISC Machine)](https://www.cortex.com/)，在其经典处理器 cortex11以后的产品改用Cortex命名，产品分成A、R和M三类，旨在为各种不同的市场提供服务
+[Cortex (Advanced RISC Machine)](https://www.arm.com/)，[ARM](https://github.com/sochub/ARM)公司在其经典处理器 ARM11 以后的产品改用Cortex命名，产品分成A、R和M三类
 
 ####  [Cortex A](https://github.com/sochub/CA)
 
-cortex Cortex™-A 系列面向尖端的基于虚拟内存的操作系统和用户应用。
+cortex Cortex™-A 系列面向尖端的基于虚拟内存的操作系统和用户应用
 
 ####  [Cortex R](https://github.com/sochub/CR)
 
